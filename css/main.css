@@ -1,0 +1,100 @@
+span{
+    color: yellow;
+}
+#section-a h1{
+    text-align: center;
+}
+#section-a .row{
+    margin-top: 20px;
+}
+#section-a .card{
+    background-color: #343c43;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 0.7em;
+    color: #ffffff;
+}
+#section-a .card:hover{
+    box-shadow: 3px 3px 3px 3px #1c1307;
+
+}
+#section-a .card img{
+    width: 100%;
+}
+#section-a .card img:hover{
+    opacity: 0.7;
+}
+
+/*#section-b styles*/
+#section-b{
+    margin-top: 20px;
+    text-align: center;
+    background-color:  #343c43;
+    font-family: "sans-serif";
+    background-image: url("../images/salad.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    color: #ffffff;
+    height: 80vh;
+}
+footer{
+    color: #ffffff;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+#copy{
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+.login{
+    background-color: yellow;
+}
+.form{
+    text-align: left;
+}
+
+
+.sign{
+    background-color: #333333;
+}
+
+.auth-signup{
+    background-color: yellow;
+    padding: 20px 5px 5px 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.auth-img{
+    border: 3px solid black;
+
+}
+.auth-signup .content-title{
+    text-align: center;
+    font-family: monospace;
+}
+.auth-signup hr{
+    padding: 2px;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
